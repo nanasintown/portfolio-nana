@@ -110,5 +110,6 @@ export const skillsData = [
   'Tailwind',
   'MongoDB',
   'SQL',
+  'Jira',
   'Framer Motion',
 ] as const;
