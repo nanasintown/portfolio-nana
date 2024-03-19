@@ -46,7 +46,7 @@ export const experiencesData = [
     title: 'Software Trainee',
     location: 'Nokia, Finland',
     description:
-      'I joined Nokia as a Software Trainee, where I worked with CI team to maintain software components, CI pipelines (DevOps processes involved), and develop tools interacting with API and retrieve data.',
+      'I worked as a Software Trainee in CI team to maintain software components (Python), CI pipelines (DevOps processes involved), and develop tools interacting with API and retrieve data.',
     icon: React.createElement(CgWorkAlt),
     date: '2023-2024',
   },
