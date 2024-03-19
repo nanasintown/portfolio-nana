@@ -59,7 +59,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hi, it's me, I'm Nana. </span>A Master
-        student at Aalto University, and a{' '}
+        student at Aalto University with a curious mind, and a{' '}
         <span className="italic">dudette that codes!</span>{' '}
       </motion.h1>
 
