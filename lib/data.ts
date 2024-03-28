@@ -4,6 +4,7 @@ import { FaReact } from 'react-icons/fa';
 import { LuGraduationCap } from 'react-icons/lu';
 import todolist from '@/public/todolist.png';
 import pieChart from '@/public/piechart.jpeg';
+import java from '@/public/java.png';
 import chart from '@/public/chart.png';
 
 export const links = [
@@ -69,6 +70,13 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: 'Contact management',
+    description:
+      'A web contact book written in Java + Spring (backend) and React (frontend).',
+    tags: ['Java', 'React', 'MySQL'],
+    imageUrl: java,
+  },
   {
     title: 'Expense management',
     description:
