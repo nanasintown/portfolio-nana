@@ -73,8 +73,8 @@ export const projectsData = [
   {
     title: 'Contact management',
     description:
-      'A web contact book written in Java + Spring (backend) and React (frontend).',
-    tags: ['Java', 'React', 'MySQL'],
+      'A web contact book written in Java + Spring (backend) and React (frontend), MySQL as database.',
+    tags: ['Java', 'Spring Boot', 'React', 'MySQL'],
     imageUrl: java,
   },
   {
